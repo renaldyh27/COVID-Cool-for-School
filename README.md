@@ -9,7 +9,8 @@ COVID-19 has impacted the school systems significantly in San Diego County. Sinc
 
 Our project uses COVID-19 data to analyze the potential risk of opening elementary, middle, and high schools in San Diego. We identified 618 schools in San Diego county and built a classification model using a K-means clustering algorithm that determines the risk of each specific school based on the demographic information of its surrounding area. We used the ArcGIS framework to build interactive web maps to better visualize our data. We also built our 'Covid Cool for School' interactive map to display the distribution of the 618 schools in San Diego county, categorized into their 'risk category' for opening up.
 
-Contributors
+## Contributors
+
 Renaldy Herlim <rherlim@ucsd.edu> (Project Lead)
 Benjamin Becze <bbecze@ucsd.edu>
 Alex Makhratchev <amakhrat@ucsd.edu>
