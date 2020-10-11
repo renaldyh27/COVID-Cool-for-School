@@ -12,7 +12,11 @@ Our project uses COVID-19 data to analyze the potential risk of opening elementa
 ## Contributors
 
 Renaldy Herlim <rherlim@ucsd.edu> (Project Lead)
+
 Benjamin Becze <bbecze@ucsd.edu>
+
 Alex Makhratchev <amakhrat@ucsd.edu>
+
 Andrew Chin <abchin@ucsd.edu>
+
 Samuel Huang <sgh007@ucsd.edu>
